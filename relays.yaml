@@ -201,3 +201,4 @@ relays:
   - wss://no-str.org
   - wss://nostr.thesimplekid.com
   - wss://knostr.neutrine.com
+  - wss://nostr.messagepush.io
